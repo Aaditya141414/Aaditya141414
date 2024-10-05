@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me aadityasingh141414@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am also a event manager.
+- ⚡ Fun fact: I am also an event manager.
 
 <!---
 Aaditya141414/Aaditya141414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
